@@ -1,6 +1,6 @@
 #!/bin/bash
 
-clear # Cleaning the terminal
+clear
 
 echo -e '\033[01;33m
   /$$$$$$    /$$    /$$$$$$  /$$   /$$ /$$$$$$$  /$$   /$$\033[01;37m                 ,
