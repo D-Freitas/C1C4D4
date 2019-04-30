@@ -15,7 +15,7 @@ echo -e '\033[01;33m
 \e[38;5;83m/*Coded by Tkaiper
 We are Pryzraky\e[0m 
 
-\e[38;5;99mGreetz -> D4RKR0N, Wicca, al1ne3737, PopTart, Aj4x, Inocent, Malokin_, Cyber_, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Mecz1nho, Ergo, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
+\e[38;5;99mGreetz -> D4RKR0N, Wicca, al1ne3737, PopTart, Aj4x, Inocent, Malokin_, artr0n, Cyber_, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Mecz1nho, Ergo, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
 
 '
 read -p $'\e[96mMD5 > \e[0m ' x
