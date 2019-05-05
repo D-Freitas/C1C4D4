@@ -18,8 +18,8 @@ We are PRdV Team!\e[0m
 \e[38;5;99mGreetz -> D4RKR0N, Wicca, PopTart, Aj4x, Inocent, Cyber_, KuroiSH, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
 
 '
-read -p $'\e[96mMD5 > \e[0m ' x
-read -p $'\e[96mWORDLIST > \e[0m ' y
+read -p $'\e[96mMD5 > \e[0m' x
+read -p $'\e[96mWORDLIST > \e[0m' y
 
 c=0
 for l in $(cat $y)
