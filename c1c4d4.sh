@@ -15,7 +15,7 @@ echo -e '\033[01;33m
 \e[38;5;83m/*Coded by Tkaiper
 We are PRdV Team!\e[0m 
 
-\e[38;5;99mGreetz -> D4RKR0N, Wicca, PopTart, Aj4x, Inocent, Cyber_, Kuroi'SH, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
+\e[38;5;99mGreetz -> D4RKR0N, Wicca, PopTart, Aj4x, Inocent, Cyber_, KuroiSH, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
 
 '
 read -p $'\e[96mMD5 > \e[0m ' x
