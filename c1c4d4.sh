@@ -12,9 +12,7 @@ echo -e '\033[01;33m
 \033[01;33m|  $$$$$$/ /$$$$$$|  $$$$$$/      | $$| $$$$$$$/      | $$\033[01;37m    `-._____..-/`  |  \
 \033[01;33m \______/ |______/ \______/       |__/|_______/       |__/\033[01;37m            ,-`   /    `-.
                                                                            `
-\e[38;5;83m//Coded by v01d (Davi SH)
-
-\e[38;5;99mGreetz -> D4RKR0N, Wicca, PopTart, Aj4x, Inocent, Cyber_, KuroiSH, Torrad4, ZHacker, Bisqwit, Monise, Vitor Vilela, Dext3r, kimberlly, * Melissa *, p3g4sus*/\e[0m
+\e[38;5;83m//Coded by Davi SH
 
 '
 read -p $'\e[96mMD5 > \e[0m' x
